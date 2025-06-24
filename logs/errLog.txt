@@ -1,0 +1,10 @@
+21:06:2025	23:40:51	8a93b5c0-daa3-498d-aeb4-46699195de6c	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:22	29880639-48bf-40b3-a375-56528384c286	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:51	5b9e7e5b-8879-4148-a20c-d4af39fd6cc9	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:43:46	d89506c9-eb62-4cf3-96a9-b6469f00a03c	Error: Cannot set headers after they are sent to the client
+22:06:2025	09:03:44	ee7e6dc4-a4d7-4af1-a0fb-30bd3ad316f2	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+24:06:2025	21:48:52	26e1cac6-b279-49f1-a5dc-8d2328308203	Error: Cannot set headers after they are sent to the client
+24:06:2025	21:57:53	17b9117b-04fc-4426-9723-11a906681b01	Error: Not allowed by CORS
+24:06:2025	21:59:11	02822b93-e864-4440-a7db-ff5a21d0f38a	Error: Not allowed by CORS
+24:06:2025	21:59:15	89f574df-a394-4326-9a3a-c80b687b8c7e	Error: Not allowed by CORS
+24:06:2025	21:59:29	e7f08d30-5412-46e6-90a6-1f2261b019c3	Error: Not allowed by CORS
